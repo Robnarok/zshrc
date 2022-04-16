@@ -102,3 +102,4 @@ source $ZSH/oh-my-zsh.sh
 alias vim="nvim"
 export PATH=$PATH:/usr/local/go/bin:$HOME/tools/node-v14.15.4-linux-x64/bin
 alias ssh="TERM=xterm-256color ssh"
+export EDITOR=nvim
